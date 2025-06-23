@@ -1,4 +1,4 @@
-![Screenshot 2025-06-24 000429](https://github.com/user-attachments/assets/1368615d-31d3-4214-8025-dece2f10dc41)
+
 # Weather Website
 
 A responsive weather website that shows real-time weather updates based on user location or input. Built using HTML, CSS, JavaScript, and OpenWeatherMap API, it works smoothly on all devices.
