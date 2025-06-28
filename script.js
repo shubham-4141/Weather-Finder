@@ -48,4 +48,4 @@ searchBtn.addEventListener("click", () => {
 });
 
 // OPTIONAL: Load default city on start
-checkWeather("Delhi");
+// checkWeather("Delhi");
