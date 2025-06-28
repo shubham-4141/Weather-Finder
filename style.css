@@ -8,7 +8,7 @@
 body{
     background-color: #222;
     background-size: cover;
-    background-image: url('/photos/pexels-denitsa-kireva-2915302-9229498.jpg');
+    background-image: url('photos/pexels-denitsa-kireva-2915302-9229498.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
@@ -128,8 +128,8 @@ body{
   }
   .search input{
     height: 50px;
-    width: 70%;
-    font-size: 15px;
+    width: 75%;
+    font-size: 14px;
     margin-left: auto;
   }
   .search button{
