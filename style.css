@@ -44,6 +44,8 @@ body{
     flex:1;
     margin-right:10px;
     font-size: 18px;
+    overflow:auto;
+    
 }
 
 .search button{
@@ -125,7 +127,7 @@ body{
   }
   .search input{
     height: 50px;
-    width: 50%;
+    width: 70%;
     font-size: 15px;
     margin-left: auto;
   }
